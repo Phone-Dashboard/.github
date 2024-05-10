@@ -6,7 +6,7 @@ It was originally developed to support the research aims of Hunt Allcott, Matthe
 
 ## Phone Dashboard Mobile App
 
-The source code for the mobile app is located in the [Phone-Dashboard-Android](https://github.com/lenasong/Phone-Dashboard-Android) repository and this consists of the full Android project needed to build the app. Refer to that repository's README for build instructions.
+The source code for the mobile app is located in the [Phone-Dashboard-Android](https://github.com/Phone-Dashboard/Phone-Dashboard-Android) repository and this consists of the full Android project needed to build the app. Refer to that repository's README for build instructions.
 
 ## Phone Dashboard Data Collection Server
 
