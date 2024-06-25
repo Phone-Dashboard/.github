@@ -10,7 +10,7 @@ The source code for the mobile app is located in the [Phone-Dashboard-Android](h
 
 ## Phone Dashboard Data Collection Server
 
-The Android mobile app relies on a cloud-based data collection server for retrieving its configuration periodically (such as whether to apply an intevention or not, and where to transmit gathered data). The server code and installation instructions are available in the [Phone-Dashboard-Django](https://github.com/lenasong/Phone-Dashboard-Django) repository.
+The Android mobile app relies on a cloud-based data collection server for retrieving its configuration periodically (such as whether to apply an intevention or not, and where to transmit gathered data). The server code and installation instructions are available in the [Phone-Dashboard-Django](https://github.com/Phone-Dashboard/Phone-Dashboard-Django) repository.
 
 ## Experimental Setup
 
