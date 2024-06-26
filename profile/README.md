@@ -2,7 +2,7 @@
 
 Phone Dashboard is a mobile application and suopporting cloud-based data server that allows researchers to track active application usage on Android devices and to implement behavioral interventions to try and change user behavior.
 
-It was originally developed to support the research aims of Hunt Allcott, Matthew Gentzkow, and Lena Song, resulting [the National Bureau of Economic Research working paper on Digital Addiction](https://www.nber.org/papers/w28936). As such, its design and implementation reflects thats study's approach and design.
+The tool was originally developed to support a study by Hunt Allcott, Matthew Gentzkow, and Lena Song. As such, its design and implementation reflects that study's approach and design. For more details on the study on digital addiction, see [Allcott, Gentzkow, and Song (2022)](https://www.aeaweb.org/articles?id=10.1257/aer.20210867).
 
 ## Phone Dashboard Mobile App
 
